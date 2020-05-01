@@ -1,1 +1,11 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+locale: en-US
+title: "S2 Blog"
+description: "Blog about RE and CTF Writeups"
+baseurl: # the subpath of your site, e.g. "/blog"
+url: "https://sisoma2.github.io"
+date_format: "%d-%m-%Y"
+skin: "/assets/css/skins/dark.css"
+search_full_content: true
+disqus:
+  shortname: sisoma2
