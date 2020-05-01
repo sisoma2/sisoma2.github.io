@@ -7,17 +7,14 @@ date_format: "%d-%m-%Y"
 skin: "/assets/css/skins/dark.css"
 
 google_analytics: UA-2662161-4
-
-disqus:
-  shortname: sisoma2
   
 footer_links:
   - title: Twitter
     url: https://twitter.com/sisoma2
-    icon: fab fa-twitter-square
+    icon: fab fa-twitter
   - title: GitHub
     url: https://github.com/sisoma2
-    icon: fab fa-github-square
+    icon: fab fa-github
   - title: Telegram
     url: https://t.me/sisoma2
     icon: fab fa-telegram
