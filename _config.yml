@@ -3,6 +3,7 @@ locale: en-US
 title: "S2 Blog"
 description: "Personal blog about RE and CTF Writeups"
 url: "https://s2blog.es"
+baseurl: ""
 date_format: "%d-%m-%Y"
 skin: "/assets/css/skins/dark.css"
 author: sisoma2
