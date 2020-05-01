@@ -2,10 +2,11 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: en-US
 title: "S2 Blog"
 description: "Personal blog about RE and CTF Writeups"
-url: "https://sisoma2.github.io"
+url: "https://s2blog.es"
 date_format: "%d-%m-%Y"
 skin: "/assets/css/skins/dark.css"
-search_full_content: true
+
+google_analytics: UA-2662161-4
 
 disqus:
   shortname: sisoma2
@@ -19,4 +20,4 @@ footer_links:
     icon: fab fa-github-square
   - title: Telegram
     url: https://t.me/sisoma2
-    icon: fab fa-telegram-square
+    icon: fab fa-telegram
