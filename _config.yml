@@ -5,9 +5,9 @@ description: "Personal blog about RE and CTF Writeups"
 url: "https://s2blog.es"
 date_format: "%d-%m-%Y"
 skin: "/assets/css/skins/dark.css"
-
+author: sisoma2
 google_analytics: UA-2662161-4
-  
+
 footer_links:
   - title: Twitter
     url: https://twitter.com/sisoma2
