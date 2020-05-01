@@ -1,0 +1,10 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Sisoma2:
+  name: Marc Elias
+  twitter: "@sisoma2"
+  links:
+    - title: Twitter
+      url: https://twitter.com/sisoma2
+      icon: fab fa-twitter-square
