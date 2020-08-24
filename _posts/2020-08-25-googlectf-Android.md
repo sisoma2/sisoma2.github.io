@@ -5,8 +5,6 @@ author: sisoma2
 tags: ctf googlectf android smali java
 ---
 
-# Google CTF 2020 - Android
-
 > Reversing
 >
 > Can you find the correct key to unlock this app?
