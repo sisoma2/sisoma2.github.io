@@ -2,7 +2,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: en-US
 title: "S2 Blog"
 description: "Personal blog about RE and CTF Writeups"
-url: "https://s2blog.es"
+url: ""
 baseurl: ""
 date_format: "%d-%m-%Y"
 skin: "/assets/css/skins/dark.css"
